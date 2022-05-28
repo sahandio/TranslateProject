@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 gwghadjaeogewgjoadbnknaeg[agnsdvlsen[gsn[dzsg oops..
+=======
+For this test we are going to learn about Github. It’s a Version Control software/host for controlling data. let's see
+this line is new.
+i updated this line.
+>>>>>>> parent of 3c72cc6 (Update 3)
